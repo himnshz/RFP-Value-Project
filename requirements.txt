@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+gpt4all
+numpy
+fpdf
+pypdf
+python-multipart
+sqlalchemy
